@@ -1,0 +1,9 @@
+C:\Users\Windows10\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\Db.mdf
+C:\Users\Windows10\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\Db_log.ldf
+C:\Users\Windows10\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.exe.config
+C:\Users\Windows10\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.exe
+C:\Users\Windows10\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.pdb
+C:\Users\Windows10\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.csprojAssemblyReference.cache
+C:\Users\Windows10\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.exe
+C:\Users\Windows10\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.pdb
